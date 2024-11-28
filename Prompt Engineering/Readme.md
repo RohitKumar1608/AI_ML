@@ -12,6 +12,7 @@ Principles of the Prompt Engineering -
 Tactics :- 
 
   - Tactic 1: Use delimiters to clearly indicate distinct parts of the input
+      -- Advantage :- Avoid Prompt Injection
   - Tactic 2: Ask for a structured output
 
 
