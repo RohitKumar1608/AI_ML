@@ -9,6 +9,12 @@ Principles of the Prompt Engineering -
 - Write clear and specific instruction
 - Give Model time to think
 
+Tactics :- 
+
+  - Tactic 1: Use delimiters to clearly indicate distinct parts of the input
+  - Tactic 2: Ask for a structured output
+
+
 
 
 
