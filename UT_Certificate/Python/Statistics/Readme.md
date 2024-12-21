@@ -67,3 +67,17 @@ cf is cumulative frequency of class preceding the median class.
 **MODE**
 
 A mode is the most frequent value or item of the data set. A data set can generally have one or more than one mode value. If the data set has one mode then it is called **“Uni-modal”**. Similarly, If the data set contains 2 modes then it is called **“Bimodal”** and if the data set contains 3 modes then it is known as **“Trimodal”**. If the data set consists of more than one mode then it is known as **“multi-modal”(can be bimodal or trimodal)**. There is no mode for a data set if every number appears only once.
+
+Example: Find the mode of the given data set 1, 2, 2, 2, 3, 3, 4, 5.
+
+Solution:
+
+Given set is {1, 2, 2, 2, 3, 3, 4, 5}
+
+As the above data set is arranged in ascending order.
+
+By observing the above data set we can say that,
+
+Mode = 2
+
+As, it has highest frequency (3)
