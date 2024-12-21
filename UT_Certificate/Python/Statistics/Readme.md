@@ -81,3 +81,18 @@ By observing the above data set we can say that,
 Mode = 2
 
 As, it has highest frequency (3)
+
+**Mode of Grouped Data**
+
+The mode of the grouped data is calculated using the formula:
+
+
+Mode = l + [(f1 + f0) / (2f1 – f0 – f2)] × h
+
+where,
+
+f1 is the frequency of the modal class,
+f0 is the frequency of the class preceding the modal class,
+f2 is the frequency of the class succeeding the modal class,
+h is the size of class intervals, and
+l is the lower limit of modal class.
