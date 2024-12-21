@@ -13,5 +13,5 @@ Mean = (sum of all values) / (number of values)
 
 Mean = (10 + 30 + 40 + 20+ 50) / 5 = 30
 
-
+**MEDIAN :-**
 
