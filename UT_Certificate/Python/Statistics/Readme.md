@@ -16,3 +16,13 @@ Mean = (10 + 30 + 40 + 20+ 50) / 5 = 30
 
 **MEDIAN :-**
 
+A Median is a middle value for sorted data. The sorting of the data can be done either in ascending order or descending order. A median divides the data into two equal halves. 
+
+The formula to calculate the median of the number of terms if the number of terms is even is shown in the image below:
+
+If n=even
+
+Median = [(n/2)th Term +(n/2)+1 th Term]/2
+
+If n=odd
+Median= [(n+1)/2]th Term
