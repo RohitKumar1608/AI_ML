@@ -47,5 +47,19 @@ Median = [(n + 1)/2]th term
 
 Median = [(5 + 1)/2]th term
 
+= 30
 
-            = 30
+**Median of Grouped Data**
+The median of the grouped data median is calculated using the formula,
+
+
+**Median = l + [(n/2 – cf) / f]×h**
+
+
+where
+
+l is lower limit of median class
+n is number of observations
+f is frequency of median class
+h is class size
+cf is cumulative frequency of class preceding the median class.
