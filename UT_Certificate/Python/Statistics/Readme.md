@@ -26,3 +26,26 @@ Median = [(n/2)th Term +(n/2)+1 th Term]/2
 
 If n=odd
 Median= [(n+1)/2]th Term
+
+Median of the data 30, 40, 10, 20, 50 is,
+
+
+**Step 1**: Order the given data in ascending order as:
+
+
+10, 20, 30, 40, 50
+
+
+**Step 2**: Check n (number of terms of data set) is even or odd and find the median of the data with respective ‘n’ value.
+
+
+**Step 3**: Here, n = 5 (odd)
+
+
+Median = [(n + 1)/2]th term
+
+
+Median = [(5 + 1)/2]th term
+
+
+            = 30
