@@ -15,4 +15,7 @@
       - Quantitative data :- 
       - Storage :- You can store structured data in relational databases and manage it using structured query language (SQL). SQL lets you           define a data model called a schema under which you determine preset rules—such as fields, formats, and values—for your data. You            can then store structured data in data warehouses or other relational database technology.
  
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
