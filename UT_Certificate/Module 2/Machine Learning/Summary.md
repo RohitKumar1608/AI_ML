@@ -7,3 +7,8 @@ Data -> Divided into -> Training Set and Testing Set
 - ranges between -1(Perfect negative Correlation) and 1(Perfect Positive correlation). 0(No Correlation between Variables)
 
 **Pearson Correlation Coffiecient :-**
+- Statistical measure that quantifies the strength and direction of a relationship between two continous variables.
+
+Correlation Formula :-
+
+Correlation vs causation?
