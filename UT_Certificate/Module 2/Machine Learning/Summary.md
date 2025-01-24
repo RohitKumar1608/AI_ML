@@ -12,3 +12,4 @@ Data -> Divided into -> Training Set and Testing Set
 Correlation Formula :-
 
 Correlation vs causation?
+Correlation and Causation are not same. If Variable 1 and Variable 2 are highly correlated that doesn't mean that variable 1 causes a change in variable 2.
