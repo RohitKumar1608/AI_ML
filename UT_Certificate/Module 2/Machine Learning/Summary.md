@@ -20,4 +20,10 @@ Why is Correlation Unitless?
 1. Standardization:
     * Correlation is calculated using the covariance of two variables, divided by the product of their standard deviations:
        r=Cov(X,Y)/σX σY
+
+
+Beft Fit Line :- 
+- Prediction Error :- Actual value - Predicted Value
+
+
       
