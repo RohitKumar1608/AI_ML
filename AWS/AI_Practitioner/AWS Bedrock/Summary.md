@@ -11,4 +11,8 @@
 
 **Amazon Bedrock - Fine-Tuning a Model**
 
-    - Adapt a copy of the 
+   - Fine tuning will change the weights of the base Foundational Model.
+     Fine Tuning
+       - Instruction based
+           - Further trained on a particular field or area of knowledge
+           - uses **labeled Example**  that are **prompt-response pairs**
