@@ -9,3 +9,6 @@
      - Learning rate :- The rate at whch model parameters are updated after each batch of traning data.
      - Learning rate warmup steps :- Number of iterations oer which learning rate is gradually increased to the initial         rate specified.  
 
+**Amazon Bedrock - Fine-Tuning a Model**
+
+    - Adapt a copy of the 
