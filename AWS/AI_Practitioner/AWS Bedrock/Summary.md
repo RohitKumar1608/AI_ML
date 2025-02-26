@@ -25,3 +25,13 @@
 - Instruction based fine tuning for a conversation
 - chatbot = Multi-turn environment
 - alternate between "user" and "assistant" roles.
+
+Transfer Learnng vs Fine tuning
+Feature	|Transfer Learning	| Fine-Tuning
+Pre-Trained Model Layers|	Mostly frozen|	Some layers updated
+New Layers Added?	|Yes|	Not always
+Training Effort	|Less	|More
+Data Requirement|	Small	|Large
+Best When	| New task is similar to the original task|	New task is different from the original task
+Risk|	Might not adapt well to new tasks	|Can lead to overfitting if not done properly
+
