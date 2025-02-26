@@ -26,8 +26,8 @@
 - chatbot = Multi-turn environment
 - alternate between "user" and "assistant" roles.
 
-Transfer Learnng vs Fine tuning
-----------------
+Transfer Learning vs Fine tuning
+--------------------------------
 Feature	|Transfer Learning	| Fine-Tuning
 -------  ------------------   ------------
 Pre-Trained Model Layers|	Mostly frozen|	Some layers updated
