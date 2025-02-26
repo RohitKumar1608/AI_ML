@@ -27,7 +27,9 @@
 - alternate between "user" and "assistant" roles.
 
 Transfer Learnng vs Fine tuning
+----------------
 Feature	|Transfer Learning	| Fine-Tuning
+-------  ------------------   ------------
 Pre-Trained Model Layers|	Mostly frozen|	Some layers updated
 New Layers Added?	|Yes|	Not always
 Training Effort	|Less	|More
